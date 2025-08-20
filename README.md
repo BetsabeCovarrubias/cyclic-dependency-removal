@@ -31,20 +31,35 @@ The number of satisfiable nodes
 Example:
 
 Input:
+
 10
+ 
 11
+
 0 1
+
 1 2
+
 2 0
+
 2 3
+
 3 4
+
 3 5
+
 2 5
+
 5 6
+
 7 8
+
 8 6
+
 9 3
+
 Output:
+
 7
 
 <img width="275" height="539" alt="image" src="https://github.com/user-attachments/assets/b0850efa-d9b8-4b95-8756-32cca3ea43b4" />
