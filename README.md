@@ -23,12 +23,18 @@ All graphs will be given with nodes numbered from 0 to n-1, and edges will be pr
 Input Format:
 
 n
+
 m 
+
 [ list of edges, one per line, each line having the form SRC DST ]
+
 Output Format:
 
 The number of satisfiable nodes
-Example:
+
+___Done in Python___
+
+### Example:
 
 Input:
 
